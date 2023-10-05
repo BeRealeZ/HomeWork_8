@@ -1,0 +1,17 @@
+footer {
+    background-color: rgb(37, 36, 36);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: white;
+}
+
+.info-2{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.info-1 p{
+    font-size: 20px;
+}

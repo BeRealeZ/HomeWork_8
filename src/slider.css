@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+
+.carousel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

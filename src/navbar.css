@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.social{
+    color: white;
+}
+
+li{
+    list-style-type: none;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+    background-color: rgb(37, 36, 36);
+    height: 80px;
+    padding: 0;
+    margin-top: 0;
+}
