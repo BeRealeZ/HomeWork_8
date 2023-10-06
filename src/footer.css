@@ -6,11 +6,18 @@ footer {
     color: white;
 }
 
-.info-2{
+.info-2 a{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    margin: 10px;
+    gap: 10px;
+    text-decoration: none;
+    font-size: 25px;
 }
 
+.info-2 img{
+    width: 32px;
+}
 
 .info-1 p{
     font-size: 20px;

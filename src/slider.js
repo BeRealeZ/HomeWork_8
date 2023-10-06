@@ -11,19 +11,19 @@ const Slider = () => {
       <Carousel className="carousel">
         <div>
           <img
-            src="https://lh6.googleusercontent.com/cJVy4vk4etKXoT0lvKDVTgcctVaez6f4Im2EM2U4SPomoK84iwdwDJQivZWksR9vAt09DYIjmin19y5EQDmUzh18dCUdXeac8Ts0YDUPusTI3uZmZeqjwqwQp2EPd_IVElBziV9bUrIruQuWyg"
+            src="https://cs13.pikabu.ru/post_img/big/2023/02/11/8/1676122311140068707.jpg"
             alt=""
           />
         </div>
         <div>
           <img
-            src="https://png.pngtree.com/background/20230502/original/pngtree-painting-beautiful-scenery-of-a-lake-with-the-reflection-on-surrounding-picture-image_2500028.jpg"
+            src="https://cs14.pikabu.ru/post_img/big/2023/02/11/8/167612231212624465.jpg"
             alt=""
           />
-        </div> 
+        </div>
         <div>
           <img
-            src="https://pibig.info/uploads/posts/2021-12/1639029909_1-pibig-info-p-aprel-peizazh-priroda-krasivo-foto-1.jpg"
+            src="https://cs13.pikabu.ru/post_img/big/2023/02/11/8/167612231217674764.jpg"
             alt=""
           />
         </div>
